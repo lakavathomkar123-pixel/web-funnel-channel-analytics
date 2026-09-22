@@ -9,7 +9,7 @@ End-to-end e-commerce funnel and marketing channel analysis using Google BigQuer
 
 ## Dashboard
 [View Live Dashboard](https://datastudio.google.com/s/v7UZzFdGJ14)
-
+![Dashboard Preview](dashboard-preview.png)
 ## Key Findings
 
 ### 1. Conversion Funnel
